@@ -1,6 +1,3 @@
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
 # האתר של דנה בן ארי
 
 אתר תדמית סטטי בעברית, מוכן לפרסום ב־GitHub Pages.
